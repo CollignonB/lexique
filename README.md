@@ -7,4 +7,16 @@ Ce lexique va regourper ces notions en les définissant succienctement, dans le 
 
 Liste : 
 
-- **git** 
+- **git** :
+- **github** :
+- **ligne de commande** :
+- **html** :
+- **css** :
+- **javascript** :
+- **php** :
+- **intégration** :
+- **front-end** :
+- **back-end** :
+- **client** :
+- **serveur** :
+- **base de données** :
